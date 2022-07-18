@@ -1,0 +1,3 @@
+# Python_Snake_Game
+
+Classic snake game created with Pycharm. It is also my first Python Project...
